@@ -1,2 +1,2 @@
-# 08-Breakout
-08-Breakout (involves Godot)
+# Project-Template-Godot
+A generic template for a Godot project
